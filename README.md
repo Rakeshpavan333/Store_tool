@@ -12,3 +12,8 @@ searching data and deleting data using file .
 with MinGW compiler.
 
 (iv)Languages and Tools :- C , C++11 , code::blocks
+
+## HOW TO USE:
+- Download the directory and Run the 'CS PROJECT.exe' file .
+- ADMIN USERNAME - rakesh , PASSWORD - 333
+- Go to admin side or the New Customer side, and remember the login ID when given .
